@@ -1,0 +1,7 @@
+num_residents,house_size,avg_temperature,num_appliances,energy_efficiency_rating,season,heating_system,insulation_quality,region,num_floors,monthly_income,energy_consumption
+3,1500,22,10,4,Spring,Gas,4,Urban,1,3000,300
+4,2000,24,15,3,Summer,Electric,3,Suburban,2,5000,450
+2,1200,20,8,5,Fall,None,5,Rural,1,2000,200
+5,2500,21,20,2,Winter,Gas,2,Urban,2,7000,600
+1,800,18,5,4,Summer,Electric,4,Suburban,1,2500,150
+
